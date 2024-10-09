@@ -1,4 +1,4 @@
-# *Aprendizados de Técnicas de Programação e Algoritmos - ETEC 2024*
+#💡*Aprendizados de Técnicas de Programação e Algoritmos - ETEC 2024*
 
 Este Componente Curricular tem como objetivo proporcionar um aprendizado profundo sobre Técnicas de Programação por meio da utilização de algoritmos e exemplos práticos, empregando a linguagem de programação estruturada em Portugol. 
 
