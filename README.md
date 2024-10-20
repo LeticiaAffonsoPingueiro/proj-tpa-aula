@@ -93,6 +93,30 @@ Essas estruturas ajudam a controlar o fluxo do programa, permitindo reações di
 
 ![image](https://github.com/user-attachments/assets/d7be9307-dc08-4945-b399-afb30005efb9)
 
+## *Escolha Caso*
+A estrutura condicional *Escolha Caso* em Portugol é usada para selecionar uma entre várias opções com base no valor de uma variável. É uma forma mais organizada de lidar com múltiplas condições, evitando muitos "se" e "senão".
+
+portugol
+
+escolha (variavel) {
+
+    caso valor1:
+    
+        // código para valor1
+        
+    caso valor2:
+    
+        // código para valor2
+        
+    ...
+    
+    caso outro:
+    
+        // código se nenhum valor corresponder
+        
+}
+
+
 
 
 # *Conclusão*
