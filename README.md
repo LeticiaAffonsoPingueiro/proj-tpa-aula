@@ -35,6 +35,42 @@ Os conceitos básicos, como variáveis e estruturas de controle, são introduzid
 
 Algoritmos são sequências de passos ou instruções claras e finitas que visam resolver um problema específico ou realizar uma tarefa. Eles são fundamentais na programação e na ciência da computação, pois permitem que computadores executem operações de forma eficiente e sistemática. Um algoritmo pode ser expresso em diversas formas, como pseudocódigo, fluxogramas ou linguagens de programação. A eficácia de um algoritmo é avaliada pela sua clareza, eficiência e capacidade de resolver o problema proposto.
 
+![image](https://github.com/user-attachments/assets/be60f6d2-bc77-4c89-9271-eba7e3bade37)
+
+# *2- Estruturas Condicionais*
+
+As estruturas condicionais em Algoritmos usando Portugol permitem que o programa tome decisões com base em condições específicas. As principais são:
+
+1. Se (If): Executa um bloco de código se uma condição for verdadeira.
+   portugol
+   se (condicao) {
+       // código a ser executado
+   }
+   
+
+2. Senão (Else): Executa um bloco de código se a condição do "se" for falsa.
+   portugol
+   se (condicao) {
+       // código se verdadeiro
+   } senão {
+       // código se falso
+   }
+   
+
+3. Se-Senão Se (Else If): Permite testar múltiplas condições.
+   portugol
+   se (condicao1) {
+       // código para condicao1
+   } senão se (condicao2) {
+       // código para condicao2
+   } senão {
+       // código se nenhuma condição for verdadeira
+   }
+   
+
+Essas estruturas ajudam a controlar o fluxo do programa, permitindo reações diferentes a diversas entradas ou situações.
+
+
 # *Conclusão*
 
 Ao final deste processo de aprendizado, espera-se que o estudante não apenas domine os conceitos fundamentais relacionados aos algoritmos, mas também desenvolva uma mentalidade crítica e analítica. A capacidade de converter ideias em soluções programáticas abre um leque de oportunidades no campo da tecnologia da informação. Assim, este projeto visa preparar os alunos para os desafios do mundo digital contemporâneo, equipando-os com as ferramentas necessárias para se tornarem programadores competentes e inovadores.
