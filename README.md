@@ -23,13 +23,17 @@ Algoritmo: É um fluxo computacional criado para resolver um problema (receita/r
 - *Fluxograma convencional*;
 - *Linguagem estruturada ou Portugol*.
 
-  # *Primeiros Passos com Algoritmos*
+# *Primeiros Passos com Algoritmos*
 
 O estudo de algoritmos representa o alicerce fundamental para a compreensão da programação. Nos primeiros passos, é essencial desenvolver a habilidade de pensar de forma lógica e estruturada, o que permite a formulação de soluções para problemas diversos. 
 
 Inicia-se com a definição de um algoritmo como uma sequência finita de instruções que visa resolver uma determinada questão ou executar uma tarefa específica. Para isso, são utilizadas representações gráficas, como fluxogramas, e linguagens formais, como o Portugol, que auxiliam na visualização e organização do raciocínio.
 
 Os conceitos básicos, como variáveis e estruturas de controle, são introduzidos de maneira prática, permitindo que o aprendiz compreenda a importância da lógica na programação. A experiência prática associada à teoria é fundamental para consolidar o aprendizado e fomentar a criatividade na resolução de problemas.
+
+# *1- Introdução aos Algoritmos*
+
+Algoritmos são sequências de passos ou instruções claras e finitas que visam resolver um problema específico ou realizar uma tarefa. Eles são fundamentais na programação e na ciência da computação, pois permitem que computadores executem operações de forma eficiente e sistemática. Um algoritmo pode ser expresso em diversas formas, como pseudocódigo, fluxogramas ou linguagens de programação. A eficácia de um algoritmo é avaliada pela sua clareza, eficiência e capacidade de resolver o problema proposto.
 
 # *Conclusão*
 
