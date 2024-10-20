@@ -41,34 +41,58 @@ Algoritmos são sequências de passos ou instruções claras e finitas que visam
 
 As estruturas condicionais em Algoritmos usando Portugol permitem que o programa tome decisões com base em condições específicas. As principais são:
 
-1. Se (If): Executa um bloco de código se uma condição for verdadeira.
+## *Se (If)* 
+Executa um bloco de código se uma condição for verdadeira.
+
    portugol
+   
    se (condicao) {
+   
        // código a ser executado
+       
    }
    
 
-2. Senão (Else): Executa um bloco de código se a condição do "se" for falsa.
+## *Senão (Else)* 
+Executa um bloco de código se a condição do "se" for falsa.
+
    portugol
+   
    se (condicao) {
+   
        // código se verdadeiro
+       
    } senão {
+   
        // código se falso
+       
    }
    
 
-3. Se-Senão Se (Else If): Permite testar múltiplas condições.
+## *Se-Senão Se (Else If)* 
+Permite testar múltiplas condições.
+
    portugol
+   
    se (condicao1) {
+   
        // código para condicao1
+       
    } senão se (condicao2) {
+   
        // código para condicao2
+       
    } senão {
+   
        // código se nenhuma condição for verdadeira
+       
    }
    
 
 Essas estruturas ajudam a controlar o fluxo do programa, permitindo reações diferentes a diversas entradas ou situações.
+
+![image](https://github.com/user-attachments/assets/d7be9307-dc08-4945-b399-afb30005efb9)
+
 
 
 # *Conclusão*
