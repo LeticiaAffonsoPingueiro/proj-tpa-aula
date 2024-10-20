@@ -116,6 +116,23 @@ escolha (variavel) {
         
 }
 
+![image](https://github.com/user-attachments/assets/0cc43aa6-ad2d-42f8-a258-27ba7a648bbf)
+
+# *3- Laços de Repetição (Loops)*
+Os laços de repetição, ou *loops*, em Portugol permitem executar um bloco de código várias vezes, enquanto uma condição for verdadeira ou até que uma condição específica seja atendida.
+
+## *Para*
+O laço de repetição *Para (For)* em Portugol é utilizado quando se conhece o número exato de iterações que devem ser realizadas. Ele é muito útil para percorrer sequências ou realizar operações repetidas um número determinado de vezes.
+
+portugol
+
+para (variavel de inicio até fim passo passo) {
+
+    // código a ser executado
+    
+}
+
+
 
 
 
