@@ -134,6 +134,17 @@ para (variavel de inicio até fim passo passo) {
 
 ![image](https://github.com/user-attachments/assets/95781305-aad6-4379-abfe-52196b37d6f4)
 
+## *Enquanto*
+O laço de repetição *Enquanto (While)* em Portugol é usado para executar um bloco de código enquanto uma condição específica for verdadeira. É ideal para situações em que não se sabe o número exato de iterações, mas se deseja continuar até que uma condição mude.
+
+portugol
+
+enquanto (condicao) {
+
+    // código a ser executado
+    
+}
+
 
 
 
