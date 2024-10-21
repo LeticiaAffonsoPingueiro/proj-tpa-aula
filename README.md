@@ -158,6 +158,9 @@ faça {
     
 } enquanto (condição)
 
+![image](https://github.com/user-attachments/assets/6c050a97-346a-4da2-a038-7cd3fc2830cf)
+
+
 
 
 
