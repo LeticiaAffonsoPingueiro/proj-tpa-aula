@@ -161,6 +161,7 @@ faça {
 ![image](https://github.com/user-attachments/assets/6c050a97-346a-4da2-a038-7cd3fc2830cf)
 
 # *4- Vetores*
+Os vetores em Portugol são estruturas que permitem armazenar uma coleção de múltiplos valores do mesmo tipo de forma sequencial. Eles oferecem uma maneira eficiente de organizar e manipular dados, possibilitando o acesso a cada elemento por meio de índices que começam em 0. Com os vetores, é possível realizar operações como iteração, busca e ordenação de forma simplificada e organizada.
 
 
 
