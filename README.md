@@ -145,6 +145,9 @@ enquanto (condicao) {
     
 }
 
+![image](https://github.com/user-attachments/assets/ecb04377-e5fb-44db-b65b-8bdfa82f8568)
+
+
 
 
 
