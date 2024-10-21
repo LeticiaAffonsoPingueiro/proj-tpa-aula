@@ -166,20 +166,8 @@ Os vetores em Portugol são estruturas que permitem armazenar uma coleção de m
 portugol
 
     // vetor nome[quantidade]: tipo
-    
 
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/8bfa9ad5-f3d9-4b94-bc40-44d820f22391)
 
 # *Conclusão*
 
