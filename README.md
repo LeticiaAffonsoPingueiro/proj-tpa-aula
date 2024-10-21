@@ -165,11 +165,9 @@ Os vetores em Portugol são estruturas que permitem armazenar uma coleção de m
 
 portugol
 
-enquanto (condicao) {
-
-    // código a ser executado
+    // vetor nome[quantidade]: tipo
     
-}
+
 
 
 
