@@ -11,7 +11,7 @@ Os principais conceitos abordados incluem:
 
 Adicionalmente, estes conhecimentos exploram a conversão de algoritmos escritos em Portugol para diversas linguagens de programação, incluindo Python, Java e PHP. Essa abordagem visa facilitar a transição do conhecimento teórico para a prática em diferentes ambientes de desenvolvimento.
 
-# *Lógica de Programação*
+# 💻 *Lógica de Programação*
 
 É a técnica de desenvolver sequências lógicas para atingir um determinado objetivo.
 
