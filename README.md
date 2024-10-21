@@ -147,6 +147,20 @@ enquanto (condicao) {
 
 ![image](https://github.com/user-attachments/assets/ecb04377-e5fb-44db-b65b-8bdfa82f8568)
 
+## *Faça...enquanto*
+O laço de repetição *Faça...Enquanto* em Portugol executa um bloco de código pelo menos uma vez antes de verificar a condição. A estrutura básica é:
+
+portugol
+
+faça {
+
+    // Código a ser executado
+    
+} enquanto (condição)
+
+
+
+
 
 
 
