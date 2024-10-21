@@ -23,7 +23,7 @@ Algoritmo: É um fluxo computacional criado para resolver um problema (receita/r
 - *Fluxograma convencional*;
 - *Linguagem estruturada ou Portugol*.
 
-# *Primeiros Passos com Algoritmos*
+# 📚 *Primeiros Passos com Algoritmos*
 
 O estudo de algoritmos representa o alicerce fundamental para a compreensão da programação. Nos primeiros passos, é essencial desenvolver a habilidade de pensar de forma lógica e estruturada, o que permite a formulação de soluções para problemas diversos. 
 
@@ -31,13 +31,13 @@ Inicia-se com a definição de um algoritmo como uma sequência finita de instru
 
 Os conceitos básicos, como variáveis e estruturas de controle, são introduzidos de maneira prática, permitindo que o aprendiz compreenda a importância da lógica na programação. A experiência prática associada à teoria é fundamental para consolidar o aprendizado e fomentar a criatividade na resolução de problemas.
 
-# *1- Introdução aos Algoritmos*
+# ✏️ *1- Introdução aos Algoritmos*
 
 Algoritmos são sequências de passos ou instruções claras e finitas que visam resolver um problema específico ou realizar uma tarefa. Eles são fundamentais na programação e na ciência da computação, pois permitem que computadores executem operações de forma eficiente e sistemática. Um algoritmo pode ser expresso em diversas formas, como pseudocódigo, fluxogramas ou linguagens de programação. A eficácia de um algoritmo é avaliada pela sua clareza, eficiência e capacidade de resolver o problema proposto.
 
 ![image](https://github.com/user-attachments/assets/be60f6d2-bc77-4c89-9271-eba7e3bade37)
 
-# *2- Estruturas Condicionais*
+# 💡 *2- Estruturas Condicionais*
 
 As estruturas condicionais em Algoritmos usando Portugol permitem que o programa tome decisões com base em condições específicas. As principais são:
 
@@ -118,7 +118,7 @@ escolha (variavel) {
 
 ![image](https://github.com/user-attachments/assets/0cc43aa6-ad2d-42f8-a258-27ba7a648bbf)
 
-# *3- Laços de Repetição (Loops)*
+# 🖇 *3- Laços de Repetição (Loops)*
 Os laços de repetição, ou *loops*, em Portugol permitem executar um bloco de código várias vezes, enquanto uma condição for verdadeira ou até que uma condição específica seja atendida.
 
 ## *Para*
@@ -160,7 +160,7 @@ faça {
 
 ![image](https://github.com/user-attachments/assets/6c050a97-346a-4da2-a038-7cd3fc2830cf)
 
-# *4- Vetores*
+# 🧮 *4- Vetores*
 Os vetores em Portugol são estruturas que permitem armazenar uma coleção de múltiplos valores do mesmo tipo de forma sequencial. Eles oferecem uma maneira eficiente de organizar e manipular dados, possibilitando o acesso a cada elemento por meio de índices que começam em 0. Com os vetores, é possível realizar operações como iteração, busca e ordenação de forma simplificada e organizada.
 
 portugol
@@ -169,6 +169,6 @@ portugol
 
 ![image](https://github.com/user-attachments/assets/8bfa9ad5-f3d9-4b94-bc40-44d820f22391)
 
-# *Conclusão*
+# 📌 *Conclusão*
 
 Ao final deste processo de aprendizado, espera-se que o estudante não apenas domine os conceitos fundamentais relacionados aos algoritmos, mas também desenvolva uma mentalidade crítica e analítica. A capacidade de converter ideias em soluções programáticas abre um leque de oportunidades no campo da tecnologia da informação. Assim, este projeto visa preparar os alunos para os desafios do mundo digital contemporâneo, equipando-os com as ferramentas necessárias para se tornarem programadores competentes e inovadores.
