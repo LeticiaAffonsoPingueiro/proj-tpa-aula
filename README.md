@@ -132,6 +132,9 @@ para (variavel de inicio até fim passo passo) {
     
 }
 
+![image](https://github.com/user-attachments/assets/95781305-aad6-4379-abfe-52196b37d6f4)
+
+
 
 
 
